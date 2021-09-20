@@ -19,7 +19,8 @@ namespace Ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundooo");
+            MessageBox.Show("El éxito en la vida no se mide por lo que logras, sino por los obstáculos que superas.");
+         
         }
     }
 }
